@@ -111,8 +111,8 @@ ol li
 
   #map
   {  background: transparent url(map.png) no-repeat;
-    width: 860px;
-    height: 800px;
+    width: 50%;
+    height: 50%;
     margin-top: auto;
     border: 10px solid #DDD;}
 
