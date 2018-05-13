@@ -109,12 +109,11 @@ ol li
   margin-top: 20px;
   border: 10px solid #DDD;}
 
-  #map
-  {  background: transparent url(map.png) no-repeat;
+#map
+{  background: transparent url(map.png) no-repeat;
     width: 50%;
     height: 50%;
-    margin-top: auto;
-    border: 10px solid #DDD;}
+    margin-top: auto;}
 
 #logo
 { width: 880px;
