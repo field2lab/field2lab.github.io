@@ -187,7 +187,7 @@ ul#menu li a:hover
 { color: #B48A7C;}
 
 #site_content
-{ width: auto;
+{ width: 880px;
   overflow: hidden;
   margin: 20px auto 0 auto;
   padding: 0 0 10px 0;}
@@ -225,7 +225,7 @@ ul#menu li a:hover
 
 #content
 { text-align: left;
-  width: 620px;
+  width: auto;
   padding: 0 0 0 5px;
   float: right;}
 
