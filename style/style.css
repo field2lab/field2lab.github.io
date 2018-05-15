@@ -196,7 +196,7 @@ ul#menu li a:hover
 { float: left;
   width: 224px;}
 
-.sidebar_top ul
+.sidebar_top
 { width: 222px;
   height: 14px;
   background: transparent url(side_top.png) no-repeat;}
