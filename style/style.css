@@ -225,7 +225,7 @@ ul#menu li a:hover
 
 #content
 { text-align: left;
-  width: 620px;
+  width: 1000px;
   padding: 0 0 0 5px;
   float: right;}
 
@@ -241,7 +241,7 @@ ul#menu li a:hover
 
 #customizedimage
   { text-align: left;
-    width: auto
+    width: 1000px
     padding: 0 0 0 5px;
     float: center;}
 
