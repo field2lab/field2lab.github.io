@@ -196,7 +196,7 @@ ul#menu li a:hover
 { float: left;
   width: 224px;}
 
-.sidebar_top
+.sidebar_top ul
 { width: 222px;
   height: 14px;
   background: transparent url(side_top.png) no-repeat;}
@@ -214,7 +214,8 @@ ul#menu li a:hover
 
 .sidebar_item
 { background: url(side_back.png) repeat-y;
-  padding: 0 15px;
+  padding: 0 5px;
+
   width: 192px;}
 
 .sidebar li a.selected
@@ -238,12 +239,6 @@ ul#menu li a:hover
   margin: 0 0 0 0;
   padding: 0 0 4px 25px;
   line-height: 1.5em;}
-
-#customizedimage
-  { text-align: left;
-    width: 1000px
-    padding: 0 0 0 5px;
-    float: center;}
 
 #footer
 { width: 100%;
