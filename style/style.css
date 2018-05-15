@@ -239,6 +239,12 @@ ul#menu li a:hover
   padding: 0 0 4px 25px;
   line-height: 1.5em;}
 
+#customizedimage
+  { text-align: left;
+    width: auto
+    padding: 0 0 0 5px;
+    float: center;}
+
 #footer
 { width: 100%;
   font-family: 'trebuchet ms', sans-serif;
