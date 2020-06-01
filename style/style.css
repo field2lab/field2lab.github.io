@@ -12,7 +12,8 @@ body
 
 p
 { padding: 0 0 10px 0;
-  line-height: 1.7em;}
+  line-height: 1.7em;
+text-indent: -4em;}
 
 img
 { border: 0;}
